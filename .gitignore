@@ -1,8 +1,24 @@
+# --- Project Related ---
 # Developing Notes of Silmarils.
 ObsidianNotes/
 
+# Ignore logs records.
+*.log
+
+# --- Mac Os ---
 # Mac Os Desktop Services Store.
 .DS_Store
 
-# Ignore loggs records.
-*.log
+# --- Xcode project files. ---
+# Xcode User Data (local developer user data)
+*.xcuserdata/
+xcuserdata/
+
+# Build artifacts & temporals
+build/
+DerivedData/
+
+# Swift Package Manager (for dependencies SPM)
+# Unmark if needed.
+#.build/
+#.swiftpm/
