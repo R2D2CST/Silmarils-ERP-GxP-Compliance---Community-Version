@@ -74,3 +74,17 @@ Linux	Fully Supported (Expected Third)
 [Disclaimer]
 
 This open-source repository contains early-stage source code, architectural schemas, and conceptual designs. Use of this software in production environments requiring GxP validation is at the sole discretion and risk of the operator. No warranty of regulatory compliance is implied until formal verification and release milestones are reached.
+
+## Installation and usage instructions
+
+Coming soon 🙏🏻
+
+## Known issues
+
+None at the moment, still in development.
+
+## Begging for Help! 
+
+Im currently making this project alone so if you like to support me or help in the development of this project that would be great.
+link to Buy Me a Coffee! - [Coming Soon]
+want to help (send me an email)! - qfbarturocastella@gmail.com
